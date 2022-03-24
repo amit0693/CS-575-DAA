@@ -1,0 +1,10 @@
+README file
+	Name:		Amit Pandit
+	Email: 	apandit1@binghamton.edu
+
+Problems 1 and 2 are written in c++ BST.cpp.
+for running them use the below command in terminal where the files are present
+	run command make BST	or  
+	g++ BST.cpp treetester.cpp -o sol.o
+	./sol.o
+

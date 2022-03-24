@@ -1,0 +1,10 @@
+README file
+	Name:		Amit Pandit
+	Email: 	apandit1@binghamton.edu
+
+Problems 3 is written in c++ AVL.cpp.
+for running them use the below command in terminal where the files are present
+	run command make AVL	or	
+	g++ AVL.cpp treetester.cpp -o sol.o
+	./sol.o
+

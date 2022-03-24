@@ -1,0 +1,8 @@
+README file
+	Name:		Amit Pandit
+	Email: 	apandit1@binghamton.edu
+For LCS code to run type the below command in terminal where the files are there
+	make LCS 	or	
+	gcc lcs.c -o lcs 
+	./lcs <string1> <string2>
+
